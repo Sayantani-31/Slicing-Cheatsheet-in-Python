@@ -13,6 +13,10 @@ stop: Ending index (exclusive)
 
 step: Interval or stride (optional)
 
+
+
+
+
 ✅ Key Points:
 Omitting start begins from the start of the string.
 
